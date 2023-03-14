@@ -1,2 +1,2 @@
 # hello-martu
-mi priemr repositorio en github u.u
+mi primer repositorio en github u.u
